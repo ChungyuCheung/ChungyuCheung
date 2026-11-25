@@ -1,6 +1,6 @@
 # GitHub Stars 分類索引
 
-[睇全部 GitHub Stars](https://github.com/ChungyuCheung?tab=stars)｜**Lists → Sort → Name ascending (A–Z)**
+[睇全部 GitHub Stars](https://github.com/ChungyuCheung?tab=stars&user_lists_direction=asc&user_lists_sort=name)｜**Lists → Sort → Name ascending (A–Z)**
 
 按主要用途分類，每個倉庫只揀一個 List。用咗 AI 唔代表一定要放入 AI：例如畫圖同寫作工具，按實際用途歸類。呢度只列公開清單，按英文名 A–Z 排序。
 
